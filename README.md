@@ -4,9 +4,14 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array- an array is a list of elements.  The list can be of any data type and can mix data types, you can even have arrays within an array.  The most important part of an array is that 
+
+
+	* Object - objects are kind of like arrays in that it is a list but more defined which features all kinds of data and can even include functions.  It can be called and is a named collection of values of all data types and functions.  
+
+
+	* Method - is a function in an object
+
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
